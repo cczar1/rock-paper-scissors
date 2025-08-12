@@ -1,4 +1,5 @@
 //Rock, Paper, Scissors Game
+//comment added to include commit message
 
 console.log("Let's play rock, paper, scissors!");
 
